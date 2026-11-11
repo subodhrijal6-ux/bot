@@ -1,8 +1,8 @@
 const mineflayer = require('mineflayer')
 
 const bot = mineflayer.createBot({
-  host: 'YOUR_SERVER_IP',
-  port: 25565,
+  host: 'babal.play.hosting',
+  port: 25988,
   username: 'MyBot123',
   auth: 'offline'
 })
